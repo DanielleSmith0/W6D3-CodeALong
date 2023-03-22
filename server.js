@@ -26,7 +26,7 @@ app.get('/js', (req, res) => {
 //Same with html and js.
 //not main.js
 
-app.listen(5150, () => {
+app.listen(4000, () => {
     console.log("app is up on 4000")
 });
 
